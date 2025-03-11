@@ -17,4 +17,4 @@ A simple 2D floor planner application that allows users to visualize rooms, wall
 Clone the repository to your local machine:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/marshalpatel10/fullstack.git
